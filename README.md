@@ -1,4 +1,4 @@
-## Gallerie Flexbox
+## Codez une galerie avec Flexbox
 
 Code source de la vidéo youtube : [Lien vers la vidéo](https://www.youtube.com/watch?v=xLeZOHSDBYA)
 
